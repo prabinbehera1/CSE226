@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#52252525</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="custom_snackbar_background">#FF4081</color>
+    <color name="statusBarColor">#FF0000</color>
+
+    <color name="loginThemeColor">#B54261</color>
+    <color name="colordarkblue">#263238</color>
+
+</resources>
